@@ -1,9 +1,14 @@
-Node.js Frameworks,DB,Node.js Servers,Other
-SailsJS,Memory,Express,
-TrailsJS,MongoDB,Hapi,
-FeathersJS,MySql,Koa,
-Meteor,MariaDB,Lazo,
-Strapi,NeDB,,
-Adonis,PostgresSQL,,
-Restify,SQLite,,
-,SQL Server,,
+Node.js Frameworks,HTTP Server,DB,Baas,Paas
+SailsJS,Express,Memory,Firebase,AWS
+TrailsJS,Hapi,MongoDB,Parse,Azure
+FeathersJS,Koa,MySql,AppleÕs CloudKit,Heroku
+Meteor,Lazo,MariaDB,Kinvey,Digital Ocean
+Strapi,Restify,NeDB,Telerik Backend Services,OpenShift
+Adonis,Geddy,PostgresSQL,stackmob,Linode
+ThinkJS,,SQLite,back4appÊ,Nodejitsu
+,,SQL Server,stanplay,Engine Yard
+,,CouchDB,treeline,Google App Engine
+,,ArangoDB,Kumulos,Cloud Foundry
+,,,gameSparks,SoftLayer
+,,,playfab,Rackspace
+,,,brainCloud,
