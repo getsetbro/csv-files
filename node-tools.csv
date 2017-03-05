@@ -1,14 +1,14 @@
 Frameworks,Server,Baas,Paas
-SailsJS,Express,Firebase,AWS
-TrailsJS,Hapi,Parse,Azure
-FeathersJS,Koa,AppleÌ¥s CloudKit,Heroku
-Meteor,Lazo,Kinvey,Digital Ocean
-Strapi,Restify,Telerik Backend Services,OpenShift
-Adonis,Geddy,stackmob,Linode
-ThinkJS,,back4appÌ_,Nodejitsu
-,,stanplay,Engine Yard
-,,treeline,Google App Engine
-,,Kumulos,Cloud Foundry
-,,gameSparks,SoftLayer
-,,playfab,Rackspace
-,,brainCloud,
+Adonis,Express,Apple CloudKit,AWS
+FeathersJS,Geddy,back4app,Azure
+Meteor,Hapi,brainCloud,Cloud Foundry
+SailsJS,Koa,Firebase,Digital Ocean
+Strapi,Lazo,gameSparks,Engine Yard
+ThinkJS,Restify,Kinvey,Google App Engine
+TrailsJS,,Kumulos,Heroku
+,,Parse,Linode
+,,playfab,Nodejitsu
+,,stackmob,OpenShift
+,,stanplay,Rackspace
+,,Telerik Backend Service,SoftLayer
+,,treeline,
