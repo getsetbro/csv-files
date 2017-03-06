@@ -7,6 +7,6 @@ Strapi,Restify,,Engine Yard
 ThinkJS,,,Google App Engine
 TrailsJS,,,Heroku
 Geddy,,,Linode
-,,,Nodejitsu
-,,,OpenShift
-,,,Rackspace
+Derby,,,Nodejitsu
+MEAN.JS,,,OpenShift
+Total.js,,,Rackspace
