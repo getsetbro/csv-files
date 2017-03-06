@@ -1,10 +1,10 @@
 Server,Frameworks,CMS,Paas,Baas
-Express,Adonis,Keystone,AWS,Apple CloudKit
-Hapi,Derby,,Azure,Firebase
-Koa,Feathers,,Cloud Foundry,Parse
-Lazo,Geddy,,Digital Ocean,Telerik Backend Service
-Restify,Hydra-Express,,Engine Yard,
-,Kraken,,Google App Engine,
+Express,Adonis,Apostrophe,AWS,Apple CloudKit
+Hapi,Derby,Buckets.io,Azure,Firebase
+Koa,Feathers,Calipso,Cloud Foundry,Parse
+Lazo,Geddy,Ghost,Digital Ocean,Telerik Backend Service
+Restify,Hydra-Express,Keystone,Engine Yard,
+,Kraken,Pencil Blue,Google App Engine,
 ,Lean Stack,,Heroku,
 ,LoopBack,,Linode,
 ,MEAN.JS,,Nodejitsu,
