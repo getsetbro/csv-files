@@ -1,12 +1,12 @@
 Frameworks,Server,Baas,Paas
 Adonis,Express,Apple CloudKit,AWS
-FeathersJS,Hapi,Firebase,Azure
-Meteor,Koa,Parse,Cloud Foundry
-SailsJS,Lazo,Telerik Backend Service,Digital Ocean
-Strapi,Restify,,Engine Yard
-ThinkJS,,,Google App Engine
-TrailsJS,,,Heroku
-Geddy,,,Linode
-Derby,,,Nodejitsu
-MEAN.JS,,,OpenShift
-Total.js,,,Rackspace
+Derby,Hapi,Firebase,Azure
+Feathers,Koa,Parse,Cloud Foundry
+Geddy,Lazo,Telerik Backend Service,Digital Ocean
+MEAN.JS,Restify,,Engine Yard
+Meteor,,,Google App Engine
+Sails,,,Heroku
+Strapi,,,Linode
+ThinkJS,,,Nodejitsu
+Total.js,,,OpenShift
+Trails,,,Rackspace
